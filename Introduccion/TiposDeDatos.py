@@ -1,0 +1,11 @@
+#numeros
+5
+6
+#string
+"hola"
+#Lista
+[1,2,3]
+#Tupla
+(1,"A",3)
+#llaves
+{"a":3}
